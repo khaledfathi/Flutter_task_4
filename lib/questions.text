@@ -1,0 +1,4 @@
+null aware assignment with async/await
+best practice for singliton like (database single object as global)
+warninng on 'auth controller'about (BuildContext) DONT USE CONTEXT WITH ASYNC ?
+where's the database file in emulator
